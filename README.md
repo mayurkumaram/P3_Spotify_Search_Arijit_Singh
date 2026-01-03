@@ -24,11 +24,11 @@ https://open.spotify.com
 Open Spotify, search for Arijit Singh, wait for results, take a screenshot.
 
 ## 🧩 Automation Workflow
-1. Open the website (Open)
-2. Search for "arijit singh" on Open
-3. Submit the search on Open
-4. Wait for search results to load on Open
-5. Take screenshot of final page on Open
+1. Open the website (Spotify)
+2. Search for "arijit singh" on Spotify
+3. Submit the search on Spotify
+4. Wait for search results to load on Spotify
+5. Take screenshot of final page on Spotify
 
 📸 **Screenshot Output**  
 A screenshot named `result.png` is generated locally after the results page loads.
